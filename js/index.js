@@ -60,7 +60,7 @@ function importGoogleSheetData() {
 
   function initTableTop() {
     var publicSpreadsheetUrl =
-      "GOOGLE_SHEET_URL";
+      "https://docs.google.com/spreadsheets/d/1DOpXRRXV5EbM7OjMDWLmBvE_APAb3BtdsjVT8ptPj7Y/edit?usp=sharing";
 
     Tabletop.init({
       key: publicSpreadsheetUrl,
